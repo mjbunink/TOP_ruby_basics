@@ -40,3 +40,4 @@ If your shell reports that it cannot find the rspec binary, it may be necessary 
 ## Usage
 
 Each directory contains a read me with instructions for the exercises within them.
+
